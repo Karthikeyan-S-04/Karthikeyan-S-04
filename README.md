@@ -1,19 +1,12 @@
-# Welcome to My GitHub Profile! 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan-s-817a8b262) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karthi_) 
 
-## About Me
-I'm Karthikeyan S, a passionate engineer with a love for data science. Currently exploring new horizons in technology and seeking innovative solutions to real-world challenges.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Karthikeyan-S-04&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karthikeyan-S-04&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-S-04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Tech Stack
-- **Data Science:** Python | NumPy | Pandas | Matplotlib | Seaborn
-- **Web Development:** HTML | CSS | JavaScript
-- **Programming Languages:** Python | Java | R
-- **Databases:** SQL | PostgreSQL
-- **Tools:** VS Code | Jupyter Notebook | Google Colab | PowerBI | Tableau
-
-## Projects
-Explore my diverse projects in data analysis, web development, and machine learning, showcasing my skills in creating innovative solutions and leveraging technology for positive impact.
-
-## Connect With Me
-Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/karthikeyan-s-817a8b262/) and check out my coding journey on LeetCode [LeetCode Profile](https://leetcode.com/Karthikeyan_22/).
-
-## 🚀 Happy Coding! 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=Karthikeyan-S-04&icon=10&color=13)](https://visitcount.itsvg.in)
