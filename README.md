@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-S-04&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Karthikeyan-S-04&icon=10&color=13)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikeyan-s-04&label=Profile%20views&color=ff6188&style=flat" alt="karthikeyan-s-04" /> </p>
